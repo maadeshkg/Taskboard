@@ -64,6 +64,12 @@ Run frontend
 ```bash
 npm run dev
 ```
-<img width="1102" height="457" alt="task1" src="https://github.com/user-attachments/assets/57f10717-a102-4b81-b05a-2390e309d884" />
-![filter task](<img width="1053" height="264" alt="task2" src="https://github.com/user-attachments/assets/c1ffa5d7-fe82-4886-898d-fec19f306acc" />
-)
+<img width="1102" height="457" alt="taskboard" src="https://github.com/user-attachments/assets/57f10717-a102-4b81-b05a-2390e309d884" />
+
+<img width="1053" height="264" alt="filter" src="https://github.com/user-attachments/assets/c1ffa5d7-fe82-4886-898d-fec19f306acc" />
+
+<img width="1075" height="531" alt="tasklist" src="https://github.com/user-attachments/assets/da612979-c4f6-4b8d-a1b0-1b3792e5705a" />
+
+<img width="714" height="373" alt="mongodb" src="https://github.com/user-attachments/assets/5589d537-adb8-4b59-913f-9019ee3bfea8" />
+
+
